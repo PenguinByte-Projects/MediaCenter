@@ -1,5 +1,9 @@
 # MediaCenter
 Organize &amp; Consume Media (Photos, Videos, Audios), and Record Audio with one simple, clean, and beautiful libadwaita app.
+
+# Disclaimer
+This is a concept, dev work will begin in the future. There is no usable build of MediaCenter yet.
+
 # Features
 1. Organize photos, videos, and audios into albums. There will also be 5 default albums. All Media (all photos and videos), Photos, Videos, Audios, and Recently Deleted. 
 Note: Audios must be stored in their own albums, and cannot be sorted with photos and videos.
